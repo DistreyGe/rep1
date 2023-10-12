@@ -1,0 +1,16 @@
+/* Загальні стилі для всього сайту */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+/* Стилі для заголовка */
+h1 {
+  color: #333;
+}
+
+/* Стилі для зображень на сторінці */
+img {
+  max-width: 100%;
+  height: auto;
+}
